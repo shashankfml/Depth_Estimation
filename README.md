@@ -194,17 +194,10 @@ Based on the training logs and loss plots analyzed:
 3. **Domain Adaptation**: Transfer learning from conventional to SPAD images
 4. **Real-Time Processing**: Optimize for deployment on edge devices
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/new-feature`)
-5. Create Pull Request
 
 ## License
 
-This project is developed for educational purposes as part of the EE5178 Modern Computer Vision course competition.
+This project is done for educational purposes as part of the EE5178 Modern Computer Vision course competition.
 
 ## Acknowledgments
 
@@ -214,4 +207,3 @@ This project is developed for educational purposes as part of the EE5178 Modern 
 
 ---
 
-For questions or issues, please refer to the course materials or contact the development team.
