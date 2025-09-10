@@ -18,7 +18,7 @@ Estimate depth maps from single SPAD images using deep learning approaches. The 
 ### Training Performance
 The best performing model achieved excellent convergence with minimal overfitting:
 
-![Training Loss Curve](loss_plot_20250429-162645.png)
+![Training Loss Curve](loss_plot_20250422-153049.png)
 
 **Key Results:**
 - **Best Validation Loss**: 0.0353 (achieved at epoch 28)
