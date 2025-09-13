@@ -2,7 +2,8 @@
 
 This project implements deep learning models for monocular depth estimation from Single Photon Avalanche Diode (SPAD) camera images. SPAD cameras detect individual photons and provide exceptional temporal resolution, making them suitable for challenging conditions like extreme low-light, high dynamic range, and motion blur scenarios.
 
-## Project Overview
+## Project Report Link:
+https://drive.google.com/file/d/1To_loyRNmHiLT9pbNI4J8T5DR0Qv_bl0/view?usp=sharing
 
 ### Problem Statement
 Estimate depth maps from single SPAD images using deep learning approaches. The challenge involves working with binary-like photon detection data that differs significantly from conventional RGB images.
